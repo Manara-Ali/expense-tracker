@@ -1,0 +1,8 @@
+.current-balance,
+.current-amount {
+  margin: 0;
+  font-size: 1.8em;
+}
+.current-amount {
+  font-size: 1.5em;
+}

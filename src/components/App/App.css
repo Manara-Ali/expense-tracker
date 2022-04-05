@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 50vw;
+  height: 80vh;
+  margin: 10% auto;
+  background-color: #ddd;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 80%;
+  height: 90%;
+  margin: auto;
+}
+
+.income-expenses {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+}
